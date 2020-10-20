@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "emitBOM": true,
+    "module": "commonjs",
+    "newLine": "LF",
+    "noImplicitAny": false,
+    "sourceMap": false,
+    "target": "es3",
+	  "outDir": "../../../_build/www/core/scripts"
+  },
+    "exclude": [
+        "node_modules"
+    ]
+}
